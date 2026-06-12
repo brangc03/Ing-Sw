@@ -1,4 +1,4 @@
-GetRest
+Nombre: GetRest
 
 Problema: El proyecto surge debido a diversos problemas presentes dentro del sector gastronómico, donde se utilizan registros manuales, libretas físicas o procesos desorganizados o lentos para controlar ingredientes, receta y productos.
 
